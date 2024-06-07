@@ -1,0 +1,26 @@
+---
+import BaseHead from '../components/BaseHead.astro';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+import { SITE_TITLE, SITE_DESCRIPTION } from '../consts';
+---
+
+<!doctype html>
+<html lang="en">
+	<head>
+		<BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
+	</head>
+	<body>
+		<Header />
+		<main>
+			<h1>🧑‍🚀 Hello, reader!</h1>
+			<p>
+				Ready to be confronted with some passionate yet loosely held opinions on cloud computing, architecture, devsecops and engineering psychology? Well have you found the place.
+			</p>
+			<p>
+				The opinions expressed on this site are mine, and mine only. They do not belong to my employer, my clients, or anyone else but me.
+			</p>
+		</main>
+		<Footer />
+	</body>
+</html>
