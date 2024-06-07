@@ -2,7 +2,6 @@
 title: 'A Platform is a Scaffold, and Solutioning is a Drug'
 description: 'Understanding why a platform is never a solution'
 pubDate: 'May 12 2024'
-heroImage: '/blog-placeholder-3.jpg'
 ---
 
 Have you ever observed how businesses zero in to platforms as if they would solve world hunger? Just install this platform and all your worries will melt away into a well-organized suite of solutions that magically bring agility and resilience to your business. There would be an unified solution ecosystem, one set of skills and SOPs, and one metaphorical throat to choke.
